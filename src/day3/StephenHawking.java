@@ -9,7 +9,7 @@ public class StephenHawking {
 	public static void main(String[] args) {
 		int x=0;
 		 String words =	JOptionPane.showInputDialog("Please create a sentence.");
-		while(x<2){
+		while(x<1){
 	// 2. ask the user for a sentence
  
 	// 3. call the speak method below and send it the sentence
